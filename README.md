@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋  
+### I'm William Tran 🙋‍♂️
+<br />
+**Software Engineering student at the University of Waterloo** 🏫 
+<br />
+You can learn more about me at williamtran.net ✌️
 <!--
 **williamtran10/williamtran10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
