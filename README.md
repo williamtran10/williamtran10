@@ -1,6 +1,6 @@
 ### Hi there, I'm William Tran 🙋‍♂️
 
-**I'm a Software Engineering student at the University of Waterloo** 🏫 
+**I'm a Computer Science student at the University of Waterloo** 🏫 
 </br>
 **You can learn more about me at [williamtran.net](https://williamtran.net)** ✌️
 <!--
